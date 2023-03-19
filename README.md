@@ -1,7 +1,7 @@
 
 <br>
-<ONGOING PROJECT!!>
-## <div align="center">DARPAN- An ML-based donation website 🚀 </div>
+<div align="center">DARPAN- An ML-based donation website 🚀 </div>
+##ONGOING PROJECT!!
 
 This project identifies and categorizes the objects being donated and updates their quantity in the organization's database. This will be done through object detection and classification of the image uploaded by a particular user. At the moment, the project does not  classify the images as being of good or bad quality.
 
